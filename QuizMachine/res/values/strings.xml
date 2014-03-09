@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">ハヤオシキ</string>
+    <string name="title_activity_main">ハヤオシキ</string>
+    <string name="title_activity_setting">設定</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_cancel">設定をキャンセルして戻る</string>
+    <string name="editname_hint">直接入力</string>
+    <string name="label_button">ボタン</string>
+    <string name="label_selectname">名前(選択)</string>
+    <string name="label_editname">名前(直接入力)</string>
+    <string name="label_keycode">KeyCode=</string>
+    <string name="menu_clear_text">テキストを一括消去</string>
+    <string name="menu_clear_selection">選択をリセット</string>
+    <string name="label_button1">ボタン1</string>
+    <string name="label_button2">ボタン2</string>
+    <string name="label_button3">ボタン3</string>
+    <string name="label_button4">ボタン4</string>
+    <string name="label_button5">ボタン5</string>
+    <string name="label_button6">ボタン6</string>
+    <string name="label_button7">ボタン7</string>
+    <string name="label_button8">ボタン8</string>
+    <string name="label_button9">ボタン9</string>
+    <string name="label_button10">ボタン10</string>
+    <string name="pushed_hint">○○○ ○○○</string>
+    <string name="label_name">名前</string>
+    <string name="menu_emu_reset">リセットのみ</string>
+    <string name="menu_emu_correct">正解</string>
+    <string name="menu_emu_wrong">誤答</string>
+
+</resources>

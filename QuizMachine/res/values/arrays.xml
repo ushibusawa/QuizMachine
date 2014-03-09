@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nameItems">
+        <item></item>
+        <item>新井 大祐</item>
+        <item>飯田 貴裕</item>
+        <item>井本 剛寛</item>
+        <item>大須賀 信裕</item>
+        <item>苅谷 竜太郎</item>
+        <item>喜多 一興</item>
+        <item>川田 実</item>
+        <item>小鍋 祐輔</item>
+        <item>小堀 裕也</item>
+        <item>小森 健史</item>
+        <item>澤田 大樹</item>
+        <item>渋沢 潮</item>
+        <item>高村光貴</item>
+        <item>仲松 択磨</item>
+        <item>平野 純也</item>
+        <item>峯 智</item>
+        <item>宮原 一郎</item>
+        <item>松原 章宗</item>
+        <item>松本 鎮成</item>
+        <item>森田 隆太郎</item>
+        <item>秋山 純一</item>
+        <item>井田 純一</item>
+        <item>野尻 周平</item>
+        <item>宮坂 聡</item>
+    </string-array>
+
+</resources>
